@@ -11,18 +11,17 @@ class Solution:
         dummy.next = head # 2
         first = dummy # 1
         second = dummy # 1
-        
+
         for l in range(n + 1): # index 0 to 3
             first = first.next # 2 , 3 , 4 , 5
-            
+
         while first: # first is not None
             first = first.next # 3 , 4 , 5 , None
             second = second.next # 2 , 3 , 4
-            
-        second.next = second.next.next # drop 4 get 5
-        
-        return dummy.next # 1, 2, 3, 5
 
+        second.next = second.next.next # drop 4 get 5
+
+        return dummy.next # 1, 2, 3, 5
 
 
 '''
