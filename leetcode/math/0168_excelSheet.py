@@ -1,7 +1,7 @@
 from typing import List
 
 #######################################################
-# Altarnetive solution in my C file, you can check it.#
+# Altarnetive solution with C, you can check it.#
 #######################################################
 
 class Solution:
