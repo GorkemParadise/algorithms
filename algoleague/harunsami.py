@@ -1,3 +1,11 @@
+"""
+Problem: Harun and Sami
+Link: https://algoleague.com/problem/harun-and-sami
+Difficulty: 1/10
+Tags: greedy, math
+"""
+
+
 K, N = map(int, input().strip().split())  #7 5
 rounds = input().strip()    #HSHSH
 

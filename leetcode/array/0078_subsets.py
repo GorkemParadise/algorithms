@@ -1,3 +1,10 @@
+"""
+Problem: 78. Subsets
+Link: https://leetcode.com/problems/subsets/
+Difficulty: Medium
+"""
+
+
 class Solution:
     def subsets(self, nums):
         seen = [[]] 

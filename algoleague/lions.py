@@ -1,3 +1,11 @@
+"""
+Problem: Lions
+Link: https://algoleague.com/problem/lions
+Difficulty: 3/10
+Tags: binary search, sorting
+"""
+
+
 def lower_bound(arr, target):
     left, right = 0, len(arr)
     while left < right:

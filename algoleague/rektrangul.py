@@ -1,3 +1,11 @@
+"""
+Problem: Rektrangul
+Link: https://algoleague.com/problem/rektrangul
+Difficulty: 2/10
+Tags: math, counting, two pointers
+"""
+
+
 n = int(input())
 
 left = 1

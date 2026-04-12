@@ -1,3 +1,12 @@
+"""
+Problem: Merge Sort
+Link: https://algoleague.com/problem/merge-sort
+Difficulty: 1/10
+Tags: implementation, sorting
+"""
+
+
+
 def merge_sort(arr, counter):
     # tek veya boşsa direkt dön
     if len(arr) <= 1:

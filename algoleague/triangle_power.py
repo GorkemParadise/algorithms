@@ -1,3 +1,12 @@
+"""
+Problem: Triangle Power
+Link: https://algoleague.com/problem/triangle-power
+Difficulty: 1/10
+Tags: recursion, implementation
+"""
+
+
+
 import sys
 
 N = int(input().strip())

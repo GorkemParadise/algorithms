@@ -1,3 +1,11 @@
+"""
+Problem: Usain Bolt
+Link: https://algoleague.com/problem/usain-bolt
+Difficulty: 1/
+Tags: implementation
+"""
+
+
 a = int(input().strip())  #rekor sayısı - 5
 b = list(map(int, input().split()))  #rekorlar - 3 7 2 6 8 
 

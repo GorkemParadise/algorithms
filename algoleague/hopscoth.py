@@ -1,3 +1,12 @@
+"""
+Problem: Hopscotch
+Link: https://algoleague.com/problem/hopscotch
+Difficulty: 1/10
+Tags: implementation, math
+"""
+
+
+
 # 6 5 --> 7
 # 6 6 --> 8 9
 # 6 20 --> 2 3
