@@ -1,6 +1,6 @@
 """
 Problem: Valid Anagram
-Link: https://neetcode.io/problems/valid-anagram
+Link: https://neetcode.io/problems/is-anagram/question?list=neetcode150
 Difficulty: Easy
 """
 

@@ -1,6 +1,6 @@
 """
 Problem: Two Sum
-Link: https://neetcode.io/problems/two-sum/question?list=neetcode150
+Link: https://neetcode.io/problems/two-integer-sum/question?list=neetcode150
 Difficulty: Easy
 """
 
