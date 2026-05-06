@@ -15,10 +15,11 @@ class Solution:
 
         s = 0
         total = 0
+        # target = 5, s = 3, total = 6
 
         while total < target:
-            s += 1
-            total += s
+            s += 1        
+            total += s   
         
         while (total - target) % 2 != 0:
             s += 1
