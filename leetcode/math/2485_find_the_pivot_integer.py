@@ -4,12 +4,12 @@ Link: https://leetcode.com/problems/find-the-pivot-integer/
 Difficulty: Easy
 """
 
-
 import math
+
 
 class Solution:
     def pivotInteger(self, n: int) -> int:
-        S = n * (n+1) // 2
+        S = n * (n + 1) // 2
 
         x = int(math.sqrt(S))
 
